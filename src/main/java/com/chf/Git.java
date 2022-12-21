@@ -8,5 +8,7 @@ public class Git {
         System.out.println("在分支上进行修改的并且提交代码");
 
         System.out.println("合并分支后在主分支进行了修改并提交");
+
+        System.out.println("在合并分支后的分支上修改了代码并提交");
     }
 }
